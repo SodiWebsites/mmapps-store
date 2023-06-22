@@ -1,0 +1,255 @@
+[
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Sale",
+                "textColor": "#ffffff",
+                "backgroundColor": "#212529"
+            },
+            {
+                "name": "Hot",
+                "textColor": "#ffffff",
+                "backgroundColor": "#DC3545"
+            },
+            {
+                "name": "New",
+                "textColor": "#ffffff",
+                "backgroundColor": "#198754"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Hot",
+                "textColor": "#ffffff",
+                "backgroundColor": "#DC3545"
+            },
+            {
+                "name": "New",
+                "textColor": "#ffffff",
+                "backgroundColor": "#198754"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            0.5,
+            0,
+            0
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Sale",
+                "textColor": "#ffffff",
+                "backgroundColor": "#212529"
+            },
+            {
+                "name": "Hot",
+                "textColor": "#ffffff",
+                "backgroundColor": "#DC3545"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Sale",
+                "textColor": "#ffffff",
+                "backgroundColor": "#212529"
+            },
+            {
+                "name": "Hot",
+                "textColor": "#ffffff",
+                "backgroundColor": "#DC3545"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "New",
+                "textColor": "#ffffff",
+                "backgroundColor": "#198754"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Hot",
+                "textColor": "#ffffff",
+                "backgroundColor": "#DC3545"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Sale",
+                "textColor": "#ffffff",
+                "backgroundColor": "#212529"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [
+            {
+                "name": "Sale",
+                "textColor": "#ffffff",
+                "backgroundColor": "#212529"
+            }
+        ],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    },
+    {
+        "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+        "badges": [],
+        "name": "Special Item",
+        "stars": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isFree": false,
+        "price": {
+            "original": "$20.00",
+            "current": "$18.00"
+        },
+        "downloadLink": "#"
+    }
+]
